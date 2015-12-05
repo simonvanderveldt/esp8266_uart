@@ -11,9 +11,9 @@
 *******************************************************************************/
 #include "ets_sys.h"
 #include "osapi.h"
-#include "driver/uart.h"
 #include "osapi.h"
-#include "driver/uart_register.h"
+#include "uart.h"
+#include "uart_register.h"
 //#include "ssc.h"
 
 
